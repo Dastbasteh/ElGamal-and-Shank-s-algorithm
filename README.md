@@ -1,1 +1,2 @@
 # ElGamal-and-Shank-s-algorithm
+It is used in modular arithmetic to solve for r in a congruence of the form r^2 ≡ n (mod p), where p is a prime: that is, to find a square root of n modulo p. The Tonelli–Shanks algorithm can (naturally) be used for any process in which square roots modulo a prime are necessary. For example, it can be used for finding points on elliptic curves. It is also useful for the computations in the Rabin cryptosystem and in the sieving step of the quadratic sieve.
